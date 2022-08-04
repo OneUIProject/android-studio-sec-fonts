@@ -4,3 +4,5 @@ As described in [this issue](https://github.com/OneUIProject/OneUI-Design-Librar
 
 ## Usage
 Download the [repo](https://github.com/OneUIProject/android-studio-sec-fonts/archive/refs/heads/main.zip) archive and extract it, navigate to the `plugins/design-tools/resources/layoutlib/data` directory inside your Android Studio folder and replace the "fonts" folder with the one provided in this repo.
+
+Before applying the new font pack we suggest you to make a backup of your current "fonts" folder, since this may break some components such as the Android Studio Updater.
